@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
-*print_numbers - print 0123456789
-* owned by Bwave ICT
+*print_numbers - print from 1 to 9
 *Return: void
 */
 
