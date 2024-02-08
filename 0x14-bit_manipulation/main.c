@@ -3,7 +3,7 @@
 int main(void)
 {
 	
-	printf("num : %d\n",binary_to_uint("0011"));
+	print_binary(29);
 
 
 
